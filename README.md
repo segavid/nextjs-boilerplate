@@ -1,29 +1,6 @@
 <a href="https://z.3isk.news/video/" style="color:#fff;text-decoration:none;">موقع قصه عشق</a>
 
 موقع قصة عشق الاصلي لمشاهدة جميع المسلسلات التركية مترجمة عربي
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<meta name="robots" content="index, follow">
-<title>موقع قصة عشق الأصلي - أفضل موقع للمسلسلات التركية المترجمة</title>
-<meta name="description" content="موقع قصة عشق الأصلي لمشاهدة وتحميل المسلسلات التركية المترجمة بجودة عالية. أحدث الحلقات مترجمة للعربية فور عرضها في تركيا.">
-<style>
-body {font-family:"Tahoma",Arial,sans-serif;background:#f9f9f9;margin:0;padding:0;line-height:1.9;color:#333;}
-header {background:#b40034;color:#fff;padding:25px;text-align:center;}
-header h1 {margin:0;font-size:30px;}
-.container {max-width:900px;background:#fff;margin:25px auto;padding:25px;box-shadow:0 0 10px rgba(0,0,0,0.1);border-radius:8px;}
-h2,h3 {color:#b40034;}
-a {color:#b40034;text-decoration:none;}
-a:hover {text-decoration:underline;}
-footer {background:#222;color:#fff;text-align:center;padding:15px;margin-top:25px;}
-</style>
-</head>
-<body>
-<header>
-  <h1>موقع قصة عشق الأصلي</h1>
-  <p>أفضل منصة عربية لمتابعة المسلسلات التركية المترجمة بجودة عالية</p>
-</header>
 
 <div class="container">
   <h2>مقدمة عن موقع قصة عشق الأصلي</h2>
